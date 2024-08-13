@@ -11,5 +11,6 @@ MySQL Beginner Level covered the following topics:
 
 MySQL Intermediate Level covered the following topics:
 1. **JOINs**: This operation combines rows from two or more tables based on a related column between them.
+
 Uploading Soon ........
 
