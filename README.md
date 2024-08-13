@@ -1,4 +1,3 @@
-# Data_Analyst_Boot_Camp
 # Data Analyst Bootcamp
 Welcome to my GitHub repository for the Data Analyst Bootcamp (by Alex The Analyst, free on YouTube).
 ## Overview
