@@ -10,7 +10,8 @@ MySQL Beginner Level covered the following topics:
 4. **LIMIT and Aliasing**: Techniques for restricting query results and renaming columns for clarity.
 
 MySQL Intermediate Level covered the following topics:
-1. **JOINs**: This operation combines rows from two or more tables based on a related column between them.
+1. **JOINs**: This operation combines rows from two or more tables based on a related column, merging rows from those tables into a single result set.
+2. **UNION**: Combines the result sets of two or more SELECT statements into a single result set, stacking the rows from each SELECT on top of each other.
 
 Uploading Soon ........
 
