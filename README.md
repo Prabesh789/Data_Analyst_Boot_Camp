@@ -12,6 +12,7 @@ MySQL Beginner Level covered the following topics:
 MySQL Intermediate Level covered the following topics:
 1. **JOINs**: This operation combines rows from two or more tables based on a related column, merging rows from those tables into a single result set.
 2. **UNION**: Combines the result sets of two or more SELECT statements into a single result set, stacking the rows from each SELECT on top of each other.
+3. **String Functions**: COUNT, LOCATE, REPLACE, SUBSTRING, TRIM, UPPER, LOWER, CONCAT, etc. Sring Functions in MySQL.
 
 Uploading Soon ........
 
