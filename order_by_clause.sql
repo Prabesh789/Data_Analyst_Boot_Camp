@@ -1,6 +1,6 @@
 -- ORDER BY clause
 
-SELECt * 
+SELECT * 
 FROM employee_demographics
 ORDER BY gender, first_name; 
 # order place of column name are important while using ORDER BY clause
