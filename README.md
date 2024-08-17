@@ -14,6 +14,7 @@ MySQL Intermediate Level covered the following topics:
 2. **UNION**: Combines the result sets of two or more SELECT statements into a single result set, stacking the rows from each SELECT on top of each other.
 3. **String Functions**: COUNT, LOCATE, REPLACE, SUBSTRING, TRIM, UPPER, LOWER, CONCAT, etc. String Functions in MySQL.
 4. **Case Statements**: Conditional statements in MySQL.
+5. **Subqueries**: Queries inside query.
 
-Uploading Soon ........
+Updating Soon ........
 
