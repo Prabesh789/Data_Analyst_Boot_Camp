@@ -15,6 +15,7 @@ MySQL Intermediate Level covered the following topics:
 3. **String Functions**: COUNT, LOCATE, REPLACE, SUBSTRING, TRIM, UPPER, LOWER, CONCAT, etc. String Functions in MySQL.
 4. **Case Statements**: Conditional statements in MySQL.
 5. **Subqueries**: Queries inside query.
+6. **Window Functions**: Performs calculations across a set of table rows related to the current row within a query result set. These calculations are done while preserving the original rows in the result set.
 
 Updating Soon ........
 
