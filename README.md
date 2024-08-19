@@ -10,12 +10,12 @@ MySQL Beginner Level covered the following topics:
 4. **LIMIT and Aliasing**: Techniques for restricting query results and renaming columns for clarity.
 
 MySQL Intermediate Level covered the following topics:
-1. **JOINs**: This operation combines rows from two or more tables based on a related column, merging rows from those tables into a single result set.
+1. **JOINs**: Merging data from multiple tables based on related columns.
 2. **UNION**: Combines the result sets of two or more SELECT statements into a single result set, stacking the rows from each SELECT on top of each other.
-3. **String Functions**: COUNT, LOCATE, REPLACE, SUBSTRING, TRIM, UPPER, LOWER, CONCAT, etc. String Functions in MySQL.
-4. **Case Statements**: Conditional statements in MySQL.
-5. **Subqueries**: Queries inside query.
-6. **Window Functions**: Performs calculations across a set of table rows related to the current row within a query result set. These calculations are done while preserving the original rows in the result set.
+3. **String Functions**: Utilizing functions like COUNT, LOCATE, REPLACE, SUBSTRING, and more to manipulate and analyze text data.
+4. **Case Statements**:  Applying conditional logic directly in SQL queries.
+5. **Subqueries**: Writing queries within queries for complex data retrieval.
+6. **Window Functions**: Performing calculations across rows related to the current row in the result set.
 
 Updating Soon ........
 
