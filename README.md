@@ -17,5 +17,10 @@ MySQL Intermediate Level covered the following topics:
 5. **Subqueries**: Writing queries within queries for complex data retrieval.
 6. **Window Functions**: Performing calculations across rows related to the current row in the result set.
 
+MySQL Advanced Level covered the following topics:
+1. **CTEs**: A Common Table Expression (CTE) in MySQL is a temporary result set defined with the WITH keyword, used in SELECT, INSERT, UPDATE, or DELETE statements. It offers a more readable and reusable alternative to subqueries.
+
+
+
 Updating Soon ........
 
