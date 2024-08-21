@@ -19,7 +19,7 @@ MySQL Intermediate Level covered the following topics:
 
 MySQL Advanced Level covered the following topics:
 1. **CTEs**: A Common Table Expression (CTE) in MySQL is a temporary result set defined with the WITH keyword, used in SELECT, INSERT, UPDATE, or DELETE statements. It offers a more readable and reusable alternative to subqueries.
-2. **Temporary Table: Temporary tables in MySQL are session-specific tables that automatically drop when the session ends, useful for storing intermediate results within that session.
+2. **Temporary Table**: Temporary tables in MySQL are session-specific tables that automatically drop when the session ends, useful for storing intermediate results within that session.
 
 
 
