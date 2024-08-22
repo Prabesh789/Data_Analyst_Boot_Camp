@@ -23,6 +23,17 @@ MySQL Advanced Level covered the following topics:
 3. **Stored Procedures**: Stored procedures in MySQL are a feature to store and reuse complex SQL queries, include control-flow statements, and accept parameters. They're great for automating tasks, enhancing code reuse, and simplifying operations.
 4. **Triggers & Events**: Triggers are the block of code that executes automatically when an event takes place on specific tables & Events are scheduled tasks that are managed by the MySQL Event Scheduler.
 
+### Data Cleaning in MySQL
+
+(I have used the updated dataset from Kaggle: [Layoffs 2022](https://www.kaggle.com/datasets/swaptr/layoffs-2022), so there are a few fewer issues with cleaning data compared to what is shown in the video.)
+
+In this process, the following steps are performed:
+
+1. **Check and Remove Duplicates**: Identify and eliminate any duplicate records to ensure each row is unique.
+2. **Standardize the Data**: Address issues with spelling, spaces, and formatting to maintain consistency across the dataset.
+3. **Handle Null and Blank Values**: Review and manage null and blank values to ensure data completeness and integrity.
+4. **Remove Unnecessary Columns and Rows**: Eliminate columns and rows that are not required for analysis or processing.
+
 
 
 Updating Soon ........
