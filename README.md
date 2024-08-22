@@ -27,7 +27,7 @@ Welcome to my GitHub repository for the Data Analyst Bootcamp (by Alex The Analy
 
 ### Data Cleaning in MySQL
 
-(I have used the updated dataset from Kaggle: [Layoffs 2022](https://www.kaggle.com/datasets/swaptr/layoffs-2022), so there are a few fewer issues with cleaning data compared to what is shown in the video.)
+(I have used the updated dataset from Kaggle: [Layoffs 2022](https://www.kaggle.com/datasets/swaptr/layoffs-2022), so there are a less issues with cleaning data compared to what is shown in the video.)
 
 In this process, the following steps are performed:
 
