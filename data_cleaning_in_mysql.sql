@@ -181,10 +181,12 @@ WHERE company = 'Appsmith';
 -- -----------------------------------------------
 -- Remove the not necessary columns and row
 
-SELECT *
+DELETE 
 FROM layoffs_stagging2
-WHERE total_laid_off IS NULL
-AND percentage_laid_off IS NULL;
+WHERE (total_laid_off IS NULL
+AND percentage_laid_off IS NULL)
+OR (total_laid_off = ''
+AND percentage_laid_off = '');
 
 DELETE 
 FROM layoffs_stagging2
