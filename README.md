@@ -23,7 +23,9 @@ Welcome to my GitHub repository for the Data Analyst Bootcamp (by Alex The Analy
 1. **CTEs**: A Common Table Expression (CTE) in MySQL is a temporary result set defined with the WITH keyword, used in SELECT, INSERT, UPDATE, or DELETE statements. It offers a more readable and reusable alternative to subqueries.
 2. **Temporary Table**: Temporary tables in MySQL are session-specific tables that automatically drop when the session ends, useful for storing intermediate results within that session.
 3. **Stored Procedures**: Stored procedures in MySQL are a feature to store and reuse complex SQL queries, include control-flow statements, and accept parameters. They're great for automating tasks, enhancing code reuse, and simplifying operations.
-4. **Triggers & Events**: Triggers are the block of code that executes automatically when an event takes place on specific tables & Events are scheduled tasks that are managed by the MySQL Event Scheduler.
+4. **Triggers & Events**:
+    #Triggers: Blocks of code that execute automatically when specific events occur on tables.
+    #Events: Scheduled tasks managed by the MySQL Event Scheduler.
 
 ### Data Cleaning in MySQL
 
