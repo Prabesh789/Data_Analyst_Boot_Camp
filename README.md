@@ -36,7 +36,11 @@ In this process, the following steps are performed:
 3. **Handle Null and Blank Values**: Review and manage null and blank values to ensure data completeness and integrity.
 4. **Remove Unnecessary Columns and Rows**: Eliminate columns and rows that are not required for analysis or processing.
 
+### Exploratory Data Analysis in MySQL
 
+Previous cleaned data is used for EDA.
+
+**Exploratory Data Analysis**: It helps understand the dataset's structure, identify key variables, detect outliers, and uncover patterns and relationships, providing insights before applying statistical models.
 
 Updating Soon ........
 
